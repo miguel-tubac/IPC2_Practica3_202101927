@@ -1,0 +1,27 @@
+[
+    {
+        "movieId": 1,
+        "name": "Avengers: Endgame",
+        "genre": "Accion"
+    },
+    {
+        "movieId": 2,
+        "name": "Fast and Furious",
+        "genre": "Accion"
+    },
+    {
+        "movieId": 3,
+        "name": "Anabel",
+        "genre": "Terror"
+    },
+    {
+        "movieId": 4,
+        "name": "El cadaver de la novia",
+        "genre": "Comedia"
+    },
+    {
+        "movieId": 5,
+        "name": "Interestelar",
+        "genre": "Suspenso"
+    }
+]        

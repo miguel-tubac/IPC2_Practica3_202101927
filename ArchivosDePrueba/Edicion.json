@@ -1,0 +1,12 @@
+[
+    {
+        "movieId": 1,
+        "name": "Avengers Final",
+        "genre": "Accion"
+    },
+    {
+        "movieId": 5,
+        "name": "Interestelar la mejor",
+        "genre": "Suspenso"
+    }
+]
